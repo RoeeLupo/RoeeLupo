@@ -8,4 +8,7 @@ I'm Roee Lupo (known as MrSheldon online), a full stack web developer and IT tec
 
 You can reach me by email at roee@discord.boats or via Discord: Roee#0001 , and you can read more about me at https://roeelupo.com
 
+P.S 
+I don't do lots of open-source work
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roeelupo&hide=css,html&langs_count=80&layout=compact&count_private=true&exclude_repo=SheldoNSFW,Luki-1,Boats.dbm,bot-list-code,powercord,discord4node,blapi,dash,rpg,ls.terminal.ink,fileupload.club,sandwicheris,bfd.js,Discord.js-bot-development,PenguBot,Luki)](https://github.com/anuraghazra/github-readme-stats)
